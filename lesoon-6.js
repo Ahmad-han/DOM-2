@@ -323,9 +323,12 @@
 
 // const student = {name: "Mike", age: 30, adress: {city: "LA", country: "USA"}};
 
-// const {name, age, city, country} = student;
+// const {name, age, adress} = student;
+
+// const {city, country} = adress;
 
 // console.log(name);
 // console.log(age);
 // console.log(city);
 // console.log(country);
+
